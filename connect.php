@@ -1,9 +1,9 @@
 <?php
-$server="localhost";
+$server=getenv("MYSQL_SERVICE_HOST");
 $user="root";
 $password="";
 $database="helpinghand";
-
+#$con = new mysqli($dbhost, $dbuser, $dbpwd, $dbname);
 if($con=mysqli_connect($server,$user,$password))
 {
 	//echo"Connected with server successfully";

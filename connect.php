@@ -1,5 +1,5 @@
 <?php
-$server=getenv("MYSQL_SERVICE_HOST");
+$server=172.17.0.3;
 $user="root";
 $password="";
 $database="helpinghand";

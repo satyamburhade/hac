@@ -162,7 +162,7 @@ Thereby, surveys were conducting  in order to get knowledge about the organizati
 						<li style="margin-left: 13%"><a href="P_home.php">Home</a></li>
 						<li style="margin-left: 13%"><a href="P_registration.php">Registration</li>
 						<li><a href="P_event.php">Event</li>
-						<li><a href="P_about_us.php">About us</li>
+						<li><a href="P_aboutus.php">About us</li>
 						<li><a href="A_login.php">Admin Login</a></li>
 					</ul>
 				

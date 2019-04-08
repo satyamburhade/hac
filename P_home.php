@@ -163,7 +163,7 @@ Thereby, surveys were conducting  in order to get knowledge about the organizati
 						<li style="margin-left: 13%"><a href="P_registration.php">Registration</li>
 						<li><a href="P_event.php">Event</li>
 						<li><a href="P_about_us.php">About us</li>
-						<li><a href="P_donarlogin">Login</a></li>
+						<li><a href="P_donarlogin.php">Login</a></li>
 					</ul>
 				
 			</div>
@@ -190,7 +190,7 @@ Thereby, surveys were conducting  in order to get knowledge about the organizati
 			</div>
 			<div id="footer" class="col-md-12">
 				
-					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By (DAP)Production</b>
+					
 					
 			</div>
 			

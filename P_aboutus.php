@@ -186,7 +186,7 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 				<h2>OUR TEAM</h2>
 				<div class="col-md-4" style=" height: 300px;margin-top: 20px" >
 					<div class="card">
-						<img  src="photos/coder.jpg"   class="img-circle"  alt="Avatar" style="width: 80%;margin-left: 45px;margin-top: 10px ">
+						<img  src="photos/coder.png"   class="img-circle"  alt="Avatar" style="width: 80%;margin-left: 45px;margin-top: 10px ">
 						<div class="container1">
 							<h4 align="center"><b>Naina Pardeshi</b></h4>
 

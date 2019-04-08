@@ -314,8 +314,8 @@ Your donations can save a child’s life, can protect a woman’s dignity and ma
 						<li style="margin-left: 9%"><a href="P_home.php">Profile</a></li>
 						<li style="margin-left: 9%"><a href="P_registration.php">Donate Products</li>
 						<li><a href="P_event.php">My Product Status</li>
-						<li><a href="P_about_us.php">Gallery</li>
-						<li><a href="P_donarlogin">Logout</a></li>
+						<li><a href="P_aboutus.php">Gallery</li>
+						<li><a href="P_donarlogin.php">Logout</a></li>
 					</ul>
 				
 			</div>
@@ -331,7 +331,7 @@ Your donations can save a child’s life, can protect a woman’s dignity and ma
 					<div class="col-md-6">
 						<h4 style=" padding-top:20px; color: white;padding-left: 40px">  Reach Us :</h4>
 							<ul>
-								<li style=" padding-top:20px; color: white">Contact No : 8208823664</li>
+								<li style=" padding-top:20px; color: white">Contact No : 8888888888</li>
 								<li style=" padding-top:20px; color: white">E-mail : helpinghand@gmail.com</li>
 								
 
@@ -342,7 +342,7 @@ Your donations can save a child’s life, can protect a woman’s dignity and ma
 			</div>
 			<div id="footer" class="col-md-12">
 				
-					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By (DAP)Production</b>
+					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By Helping Hand</b>
 					
 			</div>
 

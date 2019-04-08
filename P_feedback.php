@@ -246,8 +246,8 @@ We encourage our donors to donate warm clothes (new or old in good condition) of
 						<li style="margin-left: 13%"><a href="P_home.php">Home</a></li>
 						<li style="margin-left: 13%"><a href="P_registration.php">Registration</li>
 						<li><a href="P_event.php">Event</li>
-						<li><a href="P_about_us.php">About us</li>
-						<li><a href="P_donarlogin">Login</a></li>
+						<li><a href="P_aboutus.php">About us</li>
+						<li><a href="A_login,php">Admin Login</a></li>
 					</ul>
 				
 			</div>
@@ -263,7 +263,7 @@ We encourage our donors to donate warm clothes (new or old in good condition) of
 					<div class="col-md-6">
 						<h4 style=" padding-top:20px; color: white;padding-left: 40px">  Reach Us :</h4>
 							<ul>
-								<li style=" padding-top:20px; color: white">Contact No : 8208823664</li>
+								<li style=" padding-top:20px; color: white">Contact No : 8888888888</li>
 								<li style=" padding-top:20px; color: white">E-mail : helpinghand@gmail.com</li>
 								
 
@@ -274,7 +274,7 @@ We encourage our donors to donate warm clothes (new or old in good condition) of
 			</div>
 			<div id="footer" class="col-md-12">
 				
-					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By (DAP)Production</b>
+					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By Helping Hand</b>
 					
 			</div>
 			

@@ -227,7 +227,7 @@ if(isset($_POST["btnupdate"]))
 					<?php	echo $_SESSION["email"];  ?>
 				</div>
 				<div class="col-md-3">
-				<a href="D_logout.php"><input id="logout"  type="button" name="" value="Logout" class="btn"></a>
+				<a href="P_donarlogin.php"><input id="logout"  type="button" name="" value="Logout" class="btn"></a>
 	      </div>
 			</div>
 					

@@ -227,7 +227,7 @@ if(isset($_POST["btnupdate"]))
 					<?php	echo $_SESSION["email"];  ?>
 				</div>
 				<div class="col-md-3">
-				<a href="P_donarlogin.php"><input id="logout"  type="button" name="" value="Logout" class="btn"></a>
+				<a href="D_logout.php"><input id="logout"  type="button" name="" value="Logout" class="btn"></a>
 	      </div>
 			</div>
 					
@@ -315,7 +315,7 @@ Your donations can save a child’s life, can protect a woman’s dignity and ma
 						<li style="margin-left: 9%"><a href="P_registration.php">Donate Products</li>
 						<li><a href="P_event.php">My Product Status</li>
 						<li><a href="P_aboutus.php">Gallery</li>
-						<li><a href="P_donarlogin.php">Logout</a></li>
+						<li><a href="D_logout.php">Logout</a></li>
 					</ul>
 				
 			</div>

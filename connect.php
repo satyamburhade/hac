@@ -1,12 +1,16 @@
 <?php
-$server=getenv("server");
+$server=getenv("MYSQL_SERVICE_HOST");
 $user="root";
-$password="";
-$database=getenv("dbname");
-#$con = new mysqli($dbhost, $dbuser, $dbpwd, $dbname);
-if($con=mysqli_connect($server,$user,$password))
-{
+$password=getenv("pass");
+$database="helpinghand";
+$con = new mysqli($server, $user, $password, $database);
+if ($con->connect_errno){
 	//echo"Connected with server successfully";
+	printf("Connect failed: %s\n", $mysqli->connect_error);
+	
+}
+else
+{
 	if(mysqli_select_db($con,$database))
 	{
 		//echo"Connection with database Successful";
@@ -16,10 +20,6 @@ if($con=mysqli_connect($server,$user,$password))
 		//echo"Connection with database failed..";
 		//die("Connection error");
 	}
-	
-}
-else
-{
 	//echo"Connection with server failed..";
 	//die("Connection error");
 }

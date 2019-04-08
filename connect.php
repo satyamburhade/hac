@@ -3,7 +3,7 @@ $server=getenv("MYSQL_SERVICE_HOST");
 $user="root";
 $password=getenv("pass");
 $database="helpinghand";
-$con = new mysqli($server, $user, $password, $database);
+$con = new mysqli("10.128.21.3", $user, $password, $database);
 if ($con->connect_errno){
 	//echo"Connected with server successfully";
 	printf("Connect failed: %s\n", $mysqli->connect_error);

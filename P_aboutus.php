@@ -188,10 +188,10 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 					<div class="card">
 						<img  src="photos/coder.jpg"   class="img-circle"  alt="Avatar" style="width: 80%;margin-left: 45px;margin-top: 10px ">
 						<div class="container1">
-							<h4 align="center"><b>Dhiraj R. Avasthi</b></h4>
+							<h4 align="center"><b>Naina Pardeshi</b></h4>
 
-							<p align="center">Software Designer And Coder<br>E-mail : dhiraj@gmail.com</p>
-							<pre align="center"><h5><b>Contact : 8208823664</b></h5></pre>
+							<p align="center">Software Designer And Coder<br>E-mail : nainapardeshi@gmail.com</p>
+							<pre align="center"><h5><b>Contact : 8888888888</b></h5></pre>
 						</div>
 					</div>
 
@@ -200,10 +200,10 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 					<div class="card">
 						<img src="photos/abut.jpg" class="img-circle"  alt="Avatar" style="width: 80%;margin-left: 45px;margin-top: 10px ">
 						<div class="container1">
-							<h4 align="center"><b>Pushkar S. Gavraskar</b></h4>
+							<h4 align="center"><b>Akash S. Solanke</b></h4>
 
-							<p align="center">Database Designer<br>E-mail : pushkar@gmail.com</p>
-							<pre align="center"><h5><b>Contact : 9673104938</b></h5></pre>
+							<p align="center">Database Designer<br>E-mail : akashsolanke22@gmail.com</p>
+							<pre align="center"><h5><b>Contact : 8888888888</b></h5></pre>
 						</div>
 					</div>
 
@@ -212,10 +212,10 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 					<div class="card">
 						<img src="1111.jpg" height="179px" class="img-circle"  alt="Avatar" style="width: 80%;margin-left: 45px;margin-top: 10px ">
 						<div class="container1">
-							<h4 align="center"><b>Ajay S. Nagare</b></h4>
+							<h4 align="center"><b>Satyam D. Burhade</b></h4>
 
-							<p align="center">Information Collector<br>E-mail : ajay@gmail.com</p>
-							<pre align="center"><h5><b>Contact : 9673104938</b></h5></pre>
+							<p align="center">Information Collector<br>E-mail : sdb8275@gmail.com</p>
+							<pre align="center"><h5><b>Contact : 8888888888</b></h5></pre>
 						</div>
 					</div>		
 			</div>
@@ -230,8 +230,8 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 						<li style="margin-left: 13%"><a href="P_home.php">Home</a></li>
 						<li style="margin-left: 13%"><a href="P_registration.php">Registration</li>
 						<li><a href="P_event.php">Event</li>
-						<li><a href="P_about_us.php">About us</li>
-						<li><a href="P_donarlogin">Login</a></li>
+						<li><a href="P_aboutus.php">About us</li>
+						<li><a href="A_login.php">Admin Login</a></li>
 					</ul>
 				
 			</div>
@@ -247,7 +247,7 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 					<div class="col-md-6">
 						<h4 style=" padding-top:20px; color: white;padding-left: 40px">  Reach Us :</h4>
 							<ul>
-								<li style=" padding-top:20px; color: white">Contact No : 8208823664</li>
+								<li style=" padding-top:20px; color: white">Contact No : 8888888888</li>
 								<li style=" padding-top:20px; color: white">E-mail : helpinghand@gmail.com</li>
 								
 
@@ -258,7 +258,7 @@ Water Bottles, Small Plates, Mugs.Kids Clothes, Storybooks (new or old but in go
 			</div>
 			<div id="footer" class="col-md-12">
 				
-					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By (DAP)Production</b>
+					<hr><b style="align-items: center; padding-left: 27%;color: white">Copyright2019.All Rights Reserved Powered By Helping Hand</b>
 					
 			</div>
 			
